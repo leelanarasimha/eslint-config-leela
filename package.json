@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+     "eslint": ">=7",
+    "eslint-plugin-promise": ">=4"
+  },
   "peerDependencies": {
     "eslint": ">=7",
     "eslint-plugin-promise": ">=4"
