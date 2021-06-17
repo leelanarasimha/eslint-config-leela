@@ -13,6 +13,7 @@ module.exports = {
         eqeqeq: 'error',
         'no-console': 'off',
         'consistent-return': 'error',
+        "promise/catch-or-return": "error",
         'no-unused-vars': 'off',
         indent: ['error', 4],
         'linebreak-style': ['error', 'unix'],
