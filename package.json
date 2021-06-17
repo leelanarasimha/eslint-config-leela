@@ -11,5 +11,5 @@
   "peerDependencies": {
     "eslint": ">=7",
     "esint-plugin-promise": ">=4"
-  },
+  }
 }
